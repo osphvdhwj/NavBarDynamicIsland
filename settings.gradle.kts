@@ -11,7 +11,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         // For Xposed API dependencies
-        maven { url = uri("https://api.lsposed.org/maven") }
+        maven { url = uri("https://api.xposed.info/") }
     }
 }
 
